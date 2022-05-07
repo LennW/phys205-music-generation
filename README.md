@@ -8,5 +8,6 @@ How to load libraries and other specifics to run the jupyter notebook:
   - tensorflow
   - sklearn
   - keras
+  - pretty-midi
 - You will also need to install the .dll file in this GitHub called "libfluidsynth.dll". This needs to go in your system32 folder (I know this sounds a little dodgy but it's required for the pyfluidsynth module to work properly.)
 After this, the notebook should function.
